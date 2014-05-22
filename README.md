@@ -10,4 +10,4 @@ GitHub is an online platform for collaborating and sharing code. In recent years
    
    Similar research hasn’t been done before, making the results novel. Both the theoretical assessment and the practical case study point out that the guideline and GitHub accomplish requirements management goals in an agile environment.
 
-A link to the Thesis: <to follow>
+A link to the Thesis: to follow
